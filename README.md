@@ -1,2 +1,5 @@
 # FacebookAdServing
-广告投放笔记
+
+
+FB账号类型
+
